@@ -1,0 +1,75 @@
+/* Write your CSS here */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0px;
+}
+
+.CashWithdrawal-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: none;
+  align-items: center;
+  background-color: #150b3e;
+  background-size: cover;
+  height: 90vh;
+  border-radius: 15px;
+}
+
+.profile {
+  text-align: center;
+  height: 100px;
+  width: 100px;
+  background-size: cover;
+  background-color: #c7d2fe;
+  border-radius: 50px;
+  font-family: 'Roboto';
+  color: #382f5a;
+  font-size: 30px;
+  font-weight: bold;
+  border: none;
+  padding-top: 30px;
+}
+
+.profile-Name {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: bold;
+  color: #d4d2db;
+  padding: 10px;
+}
+
+.amout-title {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: bold;
+  color: #585076;
+  padding: 10px;
+}
+
+.User-Amount {
+  font-family: 'Roboto';
+  font-size: 25px;
+  font-weight: bold;
+  color: #c7d2fe;
+  padding: 10px;
+}
+
+.Amount-type {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: bold;
+  color: #585076;
+  padding: 10px;
+}
+
+.title {
+  font-family: 'Lobster';
+  font-size: 45px;
+  font-weight: bold;
+  color: #d4d2db;
+  padding: 10px;
+}
+
